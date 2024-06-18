@@ -1,4 +1,4 @@
-# Stochastic_Neural_Network_from_scratch
+# VQ_VAE_from_scratch
 Aim: building a beta variational auto encoder (&beta;-VAE) and vector quantization VAE (VQ-VAE) for MNIST dataset.
 
 Method:
