@@ -5,6 +5,6 @@ Method:
 
 + &beta;-VAE minimize the output-input MSE and the KL distance of the latent distribution and a prior gaussian distribution
 
-+ VQ-VAE minimize the output-input MSE and the Euclidean distance between latent vectors and codebook vectors
++ VQ-VAE minimize the output-input MSE and the Euclidean distance between latent vectors and codebook vectors (Not yet finished)
 
 
