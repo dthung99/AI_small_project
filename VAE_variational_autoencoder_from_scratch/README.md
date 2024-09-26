@@ -10,7 +10,9 @@ Method:
 Result:
 
 + Recontructed image:
+
 ![Generated image](images/generated_image.png)
 
 + Original image:
+
 ![Original image](images/raw_image.png)
