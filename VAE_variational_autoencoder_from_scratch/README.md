@@ -10,7 +10,7 @@ Method:
 Result:
 
 + Recontructed image:
-![Generated image](iamges/generated_image.png)
+![Generated image](images/generated_image.png)
 
 + Original image:
-![Original image](iamges/raw_image.png)
+![Original image](images/raw_image.png)
