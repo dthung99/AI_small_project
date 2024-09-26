@@ -17,3 +17,5 @@ Method:
 
 + Position encoding was done using sin and cos approach.
 
+Result:
+![alt text](image/result.png)
