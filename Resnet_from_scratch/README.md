@@ -10,3 +10,4 @@ Result:
 
 Note: 1/4 of the code was adapted from my lecture at university.
 
+![result](images/result.png)
