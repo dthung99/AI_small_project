@@ -9,4 +9,8 @@ Method:
 
 + LSTM and GRU network are constructed using the following structures:
 
-![alt text](image.png)
+![alt text](images/architecture.png)
+
+Result:
+
+![alt text](images/result.png)
